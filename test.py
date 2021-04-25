@@ -1,5 +1,4 @@
 from flask import Flask, request, make_response
-from flask_mysql_connector import MySQL
 import os
 from configparser import ConfigParser
 import logging
