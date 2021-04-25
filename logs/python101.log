@@ -1,0 +1,208 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+ERROR:root:2055: Lost connection to MySQL server at '3.143.253.238:3306', system error: Connection not available.
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:46:54] "[37mGET /delete?number=5 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/levo/Desktop/academypy/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:47:40] "[35m[1mGET /delete?number=5 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:47:40] "[37mGET /delete?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:47:40] "[37mGET /delete?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:47:40] "[37mGET /delete?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:47:40] "[37mGET /delete?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:47:40] "[37mGET /delete?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/levo/Desktop/academypy/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:50:10] "[35m[1mGET /delete?number=5 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:50:10] "[37mGET /delete?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:50:10] "[37mGET /delete?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:50:10] "[37mGET /delete?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:50:10] "[37mGET /delete?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:50:10] "[37mGET /delete?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:50:10] "[37mGET /delete?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/levo/Desktop/academypy/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:51:03] "[35m[1mGET /delete?number=5 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:51:03] "[37mGET /delete?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:51:03] "[37mGET /delete?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:51:03] "[37mGET /delete?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:51:03] "[37mGET /delete?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:51:03] "[37mGET /delete?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:51:03] "[37mGET /delete?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/levo/Desktop/academypy/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+ERROR:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',' at line 1
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:53:20] "[37mGET /delete?number=5 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:53:29] "[37mGET /select HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/levo/Desktop/academypy/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:53:57] "[35m[1mGET /delete?number=5 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:53:57] "[37mGET /delete?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:53:58] "[37mGET /delete?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:53:58] "[37mGET /delete?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:53:58] "[37mGET /delete?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:53:58] "[37mGET /delete?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:53:58] "[37mGET /delete?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:54:04] "[37mGET /select HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/levo/Desktop/academypy/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:55:33] "[37mGET /insert?firstname=bcfm&surname=academy&email=deneme@gmail.com HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:55:42] "[37mGET /insert?firstname=bcfm&surname=academy&email=yeni@gmail.com HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:55:46] "[37mGET /select HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:55:52] "[35m[1mGET /delete?number=7 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:55:53] "[37mGET /delete?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:55:53] "[37mGET /delete?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:55:53] "[37mGET /delete?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:55:53] "[37mGET /delete?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:55:53] "[37mGET /delete?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:56:01] "[37mGET /select HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/levo/Desktop/academypy/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:56:18] "[37mGET /delete?number=7 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/levo/Desktop/academypy/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:56:44] "[35m[1mGET /delete?number=7 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:56:44] "[37mGET /delete?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:56:45] "[37mGET /delete?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:56:45] "[37mGET /delete?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:56:45] "[37mGET /delete?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:56:45] "[37mGET /delete?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:56:45] "[37mGET /delete?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/levo/Desktop/academypy/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+INFO:werkzeug: * Detected change in '/home/levo/Desktop/academypy/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:57:13] "[35m[1mGET /delete?number=7 HTTP/1.1[0m" 0 -
+INFO:werkzeug: * Detected change in '/home/levo/Desktop/academypy/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:58:02] "[37mGET /delete?number=7 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/levo/Desktop/academypy/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:59:22] "[35m[1mGET /insert?firstname=bcfm&surname=academy&email=son@gmail.com HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:59:22] "[37mGET /insert?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:59:22] "[37mGET /insert?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:59:22] "[37mGET /insert?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:59:22] "[37mGET /insert?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:59:22] "[37mGET /insert?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:59:22] "[37mGET /insert?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 14:59:30] "[37mGET /select HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/levo/Desktop/academypy/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:00:13] "[35m[1mGET /insert?firstname=bcfm&surname=academy&email=son1@gmail.com HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:00:13] "[37mGET /insert?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:00:13] "[37mGET /insert?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:00:13] "[37mGET /insert?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:00:13] "[37mGET /insert?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:00:13] "[37mGET /insert?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/levo/Desktop/academypy/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:00:36] "[35m[1mGET /insert?firstname=bcfm&surname=academy&email=son1@gmail.com HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:00:36] "[37mGET /insert?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:00:36] "[37mGET /insert?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:00:36] "[37mGET /insert?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:00:36] "[37mGET /insert?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:00:36] "[37mGET /insert?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:00:36] "[37mGET /insert?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/levo/Desktop/academypy/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+INFO:werkzeug: * Detected change in '/home/levo/Desktop/academypy/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:07:17] "[37mGET /select HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:07:59] "[37mDELETE /delete?number=11 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:08:07] "[37mGET /select HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/levo/Desktop/academypy/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+INFO:werkzeug: * Detected change in '/home/levo/Desktop/academypy/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:16:43] "[37mGET /select HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/levo/Desktop/academypy/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:20:36] "[37mGET /select HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:20:53] "[31m[1mPOST /select HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in '/home/levo/Desktop/academypy/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:25:47] "[31m[1mGET /delete HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in '/home/levo/Desktop/academypy/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:26:45] "[31m[1mGET /delete HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:26:46] "[31m[1mGET /delete HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:26:54] "[31m[1mGET /delete HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in '/home/levo/Desktop/academypy/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:28:02] "[31m[1mGET /delete HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:28:27] "[31m[1mGET /delete?id=4 HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:28:29] "[31m[1mGET /delete?id=4 HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in '/home/levo/Desktop/academypy/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+INFO:werkzeug: * Detected change in '/home/levo/Desktop/academypy/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+INFO:werkzeug: * Detected change in '/home/levo/Desktop/academypy/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 906-174-757
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:30:14] "[37mGET /select HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:30:23] "[37mGET /insert?firstname=bcfm&surname=academy&email=son2@gmail.com HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 15:30:30] "[37mGET /select HTTP/1.1[0m" 200 -
